@@ -1,3 +1,6 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 #########################################################
 #
 # A simple script to create a random string of city names
