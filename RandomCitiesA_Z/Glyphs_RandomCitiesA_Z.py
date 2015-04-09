@@ -29,5 +29,3 @@ for l in letters:
 print azcities
 Glyphs.currentDocument.windowController().addTabWithString_( azcities )
 
-OpenTab()
-
